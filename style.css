@@ -169,4 +169,18 @@ h3{font-size:30px; margin:10px 0}
   h1{font-size:40px}
   h2{font-size:32px}
   .contact-email{font-size:26px}
+
+  /* Improve readability on small screens */
+  body{font-size:19px}
+  .brand-title{font-size:24px}
+  .brand-tag{font-size:14px; letter-spacing:.16em}
+  .eyebrow{font-size:16px}
+  .hero-text{font-size:19px}
+  .badge-box{font-size:16px}
+  .card-tag{font-size:14px}
+  .strip-title,.section-label{font-size:16px}
+
+  /* Brands strip: make cards + logos bigger on mobile */
+  .brand-card{height:104px; padding:22px; font-size:18px; font-weight:700; color:#e5e7eb}
+  .brand-card img{max-height:56px}
 }
